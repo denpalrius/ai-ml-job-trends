@@ -13,6 +13,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# THIS IS A SCRIPT TO AUTO-GENERATE THE LLM CLASSIFICATION FOR JOB POSTINGS USING GEMINI API
+# IT IS NOT MEANT TO BE RUN OUTSIDE OF THE JUPYTER NOTEBOOK ENVIRONMENT
+
 import google.generativeai as genai
 from tenacity import (
     retry,

@@ -1,6 +1,10 @@
 .env
 
-tst**.ipynb
+.conda
+.venv
 
-data/
+tst**.ipynb
+tst/
+
+data
 

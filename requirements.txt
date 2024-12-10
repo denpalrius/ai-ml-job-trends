@@ -23,3 +23,15 @@ requests
 python-dotenv
 tqdm
 tenacity
+pyarrow
+fastparquet
+tqdm
+
+# NLP
+nltk
+spacy
+textblob
+vaderSentiment
+transformers
+torch
+geopandas
