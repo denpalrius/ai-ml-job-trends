@@ -1,0 +1,25 @@
+# Data Processing & Analysis
+pandas
+numpy
+scikit-learn
+wordcloud
+
+# Jupyter Environment
+# jupyter
+# notebook
+# ipykernel
+
+# Google AI
+google-generativeai
+
+# Data Visualization
+matplotlib
+seaborn
+
+# API & HTTP
+requests
+
+# Utility
+python-dotenv
+tqdm
+tenacity
