@@ -27,11 +27,18 @@ pyarrow
 fastparquet
 tqdm
 
+
+# Tensorflow
+tensorflow
+# keras
+tf-keras
+
 # NLP
 nltk
 spacy
 textblob
 vaderSentiment
+accelerate
 transformers
 torch
 geopandas
