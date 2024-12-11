@@ -2,12 +2,14 @@
 pandas
 numpy
 scikit-learn
-wordcloud
+imblearn
+evaluate
 
 # Jupyter Environment
-# jupyter
-# notebook
-# ipykernel
+jupyter
+notebook
+ipykernel
+ipywidgets
 
 # Google AI
 google-generativeai
@@ -25,6 +27,7 @@ tqdm
 tenacity
 pyarrow
 fastparquet
+wordcloud
 tqdm
 
 
