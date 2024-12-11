@@ -2,6 +2,8 @@
 pandas
 numpy
 scikit-learn
+gensim
+xgboost
 imblearn
 evaluate
 
@@ -44,4 +46,3 @@ vaderSentiment
 accelerate
 transformers
 torch
-geopandas
