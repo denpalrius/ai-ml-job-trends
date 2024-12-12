@@ -1,17 +1,23 @@
 # Data Processing & Analysis
-pandas
 numpy
+pandas
 scikit-learn
-gensim
-xgboost
 imblearn
+
+# Machine Learning & Deep Learning
+xgboost
+tensorflow
+tf-keras
+torch
+transformers
 evaluate
+gensim
 
 # Jupyter Environment
-jupyter
-notebook
 ipykernel
 ipywidgets
+jupyter
+notebook
 
 # Google AI
 google-generativeai
@@ -19,30 +25,21 @@ google-generativeai
 # Data Visualization
 matplotlib
 seaborn
+wordcloud
+
+# Natural Language Processing (NLP)
+accelerate
+nltk
+spacy
+textblob
+vaderSentiment
 
 # API & HTTP
 requests
 
 # Utility
-python-dotenv
-tqdm
-tenacity
-pyarrow
 fastparquet
-wordcloud
+pyarrow
+python-dotenv
+tenacity
 tqdm
-
-
-# Tensorflow
-tensorflow
-# keras
-tf-keras
-
-# NLP
-nltk
-spacy
-textblob
-vaderSentiment
-accelerate
-transformers
-torch

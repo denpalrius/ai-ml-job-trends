@@ -1,3 +1,5 @@
+.DS_Store
+
 .env
 
 .conda
@@ -11,3 +13,10 @@ data
 results
 
 logs
+
+rpt**.md
+
+# Ignore checkpoints
+ai_ml_job_classiffier/
+ai_ml_job_classiffier/training_args.bin
+ai_ml_job_classiffier/model.safetensors
