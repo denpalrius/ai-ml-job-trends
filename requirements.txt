@@ -12,6 +12,7 @@ torch
 transformers
 evaluate
 gensim
+kagglehub
 
 # Jupyter Environment
 ipykernel
@@ -20,7 +21,7 @@ jupyter
 notebook
 
 # Google AI
-google-generativeai
+# google-generativeai
 
 # Data Visualization
 matplotlib
@@ -43,3 +44,4 @@ pyarrow
 python-dotenv
 tenacity
 tqdm
+tabulate
